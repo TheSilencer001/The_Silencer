@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.alluc" version="3.3" name="alluc" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Official ALLUC XBMC add-on</summary>
+        <description>Play a wide selection of movies and TV shows from alluc.to</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.losmovies" version="1.5" name="Los Movies" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse losmovies.com</summary>
+        <description>Play a wide selection of movies, tv-shows and HD content from www.losmovies.com</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.megarelease" version="0.2" name="MegaRelease" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>MegaRelease.org</summary>
+        <description>Access your saved files from your MegaRelease.org account</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.moviestwentyfive" version="0.4" name="Movie25" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse www.moive25.so/</summary>
+        <description>Watch content from www.movie25.so</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.swefilmer" version="0.8" name="Swefilmer" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse swefilmer.com</summary>
+        <description>Play videos from www.swefilmer.com</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.thedaretv" version="0.3" name="The Dare TV" provider-name="The_Silencer & HIGHWAY99">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+	<import addon="script.module.universal" version="0.0.1" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse www.thedarewall.com</summary>
+        <description>Play a wide selection of movies, tv-shows and live content from www.thedarewall.com</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.watchonlineseries" version="0.6" name="Watch Online Series" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse www.watchonlineseries.eu/</summary>
+        <description>Watch all the TV series from www.watchonlineseries.eu</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.watchseries.to" version="0.2" name="WatchSeries" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse www.watchseries.to/</summary>
+        <description>Watch TV Series from www.watchseries.to</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.The_Silencer" name="The_Silencer's REPO" version="1.3" provider-name="The_Silencer">
+	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
+		<info compressed="false">
+http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml</info>
+				<checksum>
+http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml.md5</checksum>
+		<datadirzip="true">
+http://github.com/TheSilencer001/The_Silencer/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from The_Silencer.......For OFFICIAL !! Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
