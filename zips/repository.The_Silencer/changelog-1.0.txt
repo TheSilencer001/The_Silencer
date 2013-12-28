@@ -1,4 +1,0 @@
-v1.0 - Initial Release
-v1.1 - Fixed https
-v1.2 - Fixed url
-v1.3 - moved repo to GitHub
