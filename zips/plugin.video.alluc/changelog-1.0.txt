@@ -1,0 +1,29 @@
+v1.0 - Initial Release (artwork provided by: azad720)
+v1.1 - Added New Fourm links *beta*
+v1.2 - Added Search by Actors
+v1.3 - Fixed cookie issue
+v1.4 - Updated New Fourm links *beta*
+v1.5 - Fixed error when meta data off
+v1.6 - Added Search function to Main Menu
+v1.7 - Updated the Actors Search
+v1.8 - Code changes: scrape for A-Z and Genres no more manual, fixed names with &quot;
+v1.9 - Added Google Analytics support
+v2.0 - Fixed subtitle issue
+v2.1 - Fix for ATV2
+v2.2 - Added Favorites *using the-ones universal favorites*, Downloads, unrestrict.li *VIP* support only
+v2.3 - Added View info under context menu, Added view comments to the context menu
+v2.4 - Bug fixes, fixed download names
+v2.5 - Bug fix in Actor search, fixed unristrict.li cookie issue
+v2.6 - Fixed issue picking up titles without a year, added universal playback support
+v2.7 - Fixed metadata issue with TV-Shows
+v2.8 - Added Full unristrict.li support - Guest, Registered, VIP
+v2.9 - forgot to add the settings.xml
+v2.10 - Fixed bug when enabled Unrestrict would duplicate video links. Cleaned up VIDEOLINKS routine was getting ugly.
+v2.11 - Fixed link issue when Unrestrict not enabled at all
+v2.12 - Code clean up getting ready for v3.0
+v2.13 - fixed url change on genres
+v2.14 - fixed universal settings
+v2.15 - added search from other add-ons routine
+v3.1 - fixed encoding issues
+v3.2 - Removed all universal stuff *favs,playback,whatclist*
+v3.3 - Added option to enable fanart

@@ -1,0 +1,8 @@
+v0.1 - initial beta version
+v0.2 - added search and tv series
+v0.3 - fixed site change for video links
+v0.4 - fixed links for tv series
+v0.5 - fixed site change for Genres
+v0.6 - fixed site change for links
+v0.7 - fixed search routine
+v0.8 - updated regex for all titles

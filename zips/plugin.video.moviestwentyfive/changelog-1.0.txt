@@ -1,0 +1,4 @@
+v0.1 - initial beta version
+v0.2 - added notification for no urlresolver link instead of script error
+v0.3 - updated download funtion to include file size
+v0.4 - Added TV section, KID Mode and new artwork
