@@ -136,12 +136,9 @@
 
 <addon id="repository.The_Silencer" name="The_Silencer's REPO" version="1.3" provider-name="The_Silencer">
 	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
-		<info compressed="false">
-http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml</info>
-				<checksum>
-http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml.md5</checksum>
-		<datadirzip="true">
-http://github.com/TheSilencer001/The_Silencer/raw/master/zips</datadir>
+		<info compressed="false">http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml</info>
+		<checksum>http://github.com/TheSilencer001/The_Silencer/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/TheSilencer001/The_Silencer/raw/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install MY Addons</summary>
