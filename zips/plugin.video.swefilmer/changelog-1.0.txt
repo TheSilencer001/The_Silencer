@@ -9,3 +9,4 @@ v0.8 - updated regex for all titles
 v0.9 - XBMC v13 ready
 v0.10 - added vidto.me links
 v0.11 - adding more links
+v0.12 - Added Google Docs resolver
