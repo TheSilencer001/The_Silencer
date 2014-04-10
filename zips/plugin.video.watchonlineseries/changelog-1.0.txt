@@ -6,3 +6,4 @@ v0.5 - Updated for site change
 v0.6 - Added Search
 v0.7 - New artwork provided by Marquerite
 v0.8 - Fixed Artwork
+v0.9 - Gotham Ready

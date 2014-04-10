@@ -27,3 +27,4 @@ v2.15 - added search from other add-ons routine
 v3.1 - fixed encoding issues
 v3.2 - Removed all universal stuff *favs,playback,whatclist*
 v3.3 - Added option to enable fanart
+v3.4 - Gotham Ready
