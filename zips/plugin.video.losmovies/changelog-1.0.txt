@@ -19,3 +19,4 @@ v1.8 - Fix for Droid and XBMC 13
 v1.9 - Linked Actors and Directors to context menu
 v1.10 - Added preferred quality setting
 v1.11 - Fixed settings.xml
+v1.12 - Code changes
