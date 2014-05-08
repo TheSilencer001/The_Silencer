@@ -6,3 +6,4 @@ v0.5 - Kid Mode updates
 v0.6 - fixed subtitles for Tv Shows
 v0.7 - Gotham Ready
 v0.8 - Fixed Featured Section
+v0.9 - Added Quality Flag
