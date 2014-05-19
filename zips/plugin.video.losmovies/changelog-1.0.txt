@@ -21,3 +21,4 @@ v1.10 - Added preferred quality setting
 v1.11 - Fixed settings.xml
 v1.12 - Code changes
 v1.13 - Fixed Favorites error
+v1.14 - Fixed Movies for site change
