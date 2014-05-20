@@ -22,3 +22,4 @@ v1.11 - Fixed settings.xml
 v1.12 - Code changes
 v1.13 - Fixed Favorites error
 v1.14 - Fixed Movies for site change
+v1.15 - Fixed TV Shows for site change
