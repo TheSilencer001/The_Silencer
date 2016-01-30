@@ -9,3 +9,4 @@ v0.8 - Fixed Featured Section
 v0.9 - Added Quality Flag
 v0.10 - Fixed TV section and created change url in settings
 v0.11 - Fixed lots of errors getting working again
+v0.12 - Added URL redirect check
