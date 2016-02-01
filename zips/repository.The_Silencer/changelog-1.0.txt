@@ -6,3 +6,4 @@ v1.4 - Fixed new GitHub url
 v1.5 - Finished GitHUB changes
 v1.6 - Fixed GitHUG Changes
 v1.7 - Fixed https
+v1.8 - Fixed raw in address
