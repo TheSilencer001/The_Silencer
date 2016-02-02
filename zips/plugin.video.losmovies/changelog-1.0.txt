@@ -30,3 +30,4 @@ v1.19 - added custom URL option
 v2.0  - Fixed changes to get back up and running
 v2.1  - Fixed URL redirect checker
 v2.2  - Fixed coder error for KODI
+v2.3  - Fixed site change with urls
