@@ -13,3 +13,4 @@ v0.12 - Added URL redirect check
 v0.13 - Fixed redirect check
 v0.14 - Fixed code error
 v0.15 - Added hidden keyboard input
+v0.16 - Added decode rutine to decode TV show url

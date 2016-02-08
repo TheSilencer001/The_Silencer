@@ -49,7 +49,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.moviestwentyfive" version="0.15" name="Movie25" provider-name="The_Silencer">
+<addon id="plugin.video.moviestwentyfive" version="0.16" name="Movie25" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>
@@ -62,23 +62,6 @@
     <extension point="xbmc.addon.metadata">
         <summary>Browse www.moive25.so/</summary>
         <description>Watch content from www.movie25.so</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.swefilmer" version="0.13" name="Swefilmer" provider-name="The_Silencer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.urlresolver"  version="1.0.0"/>
-        <import addon="script.module.addon.common" version="2.0.0"/>
-	<import addon="script.module.metahandler"  version="1.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Browse swefilmer.com</summary>
-        <description>Play videos from www.swefilmer.com</description>
         <platform>all</platform>
     </extension>
 </addon>
@@ -96,23 +79,6 @@
     <extension point="xbmc.addon.metadata">
         <summary>Browse www.watchonlineseries.eu/</summary>
         <description>Watch all the TV series from www.watchonlineseries.eu</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.watchseries.to" version="0.3" name="WatchSeries" provider-name="The_Silencer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.urlresolver"  version="1.0.0"/>
-        <import addon="script.module.addon.common" version="2.0.0"/>
-	<import addon="script.module.metahandler"  version="1.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Browse www.watchseries.to/</summary>
-        <description>Watch TV Series from www.watchseries.to</description>
         <platform>all</platform>
     </extension>
 </addon>
