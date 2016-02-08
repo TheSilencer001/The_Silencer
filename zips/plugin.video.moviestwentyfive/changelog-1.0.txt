@@ -12,3 +12,4 @@ v0.11 - Fixed lots of errors getting working again
 v0.12 - Added URL redirect check
 v0.13 - Fixed redirect check
 v0.14 - Fixed code error
+v0.15 - Added hidden keyboard input
