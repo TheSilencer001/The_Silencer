@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.losmovies" version="2.3" name="Los Movies" provider-name="The_Silencer">
+<addon id="plugin.video.losmovies" version="2.4" name="Los Movies" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>
         <import addon="script.module.addon.common" version="2.0.0"/>
 	<import addon="script.module.metahandler"  version="1.0.0"/>
+   	<import addon="script.common.plugin.cache" version="2.5.5"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -13,21 +14,6 @@
     <extension point="xbmc.addon.metadata">
         <summary>Browse losmovies.com</summary>
         <description>Play a wide selection of movies, tv-shows and HD content from www.losmovies.com</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.megarelease" version="0.3" name="MegaRelease" provider-name="The_Silencer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.addon.common" version="2.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>MegaRelease.org</summary>
-        <description>Access your saved files from your MegaRelease.org account</description>
         <platform>all</platform>
     </extension>
 </addon>
@@ -45,23 +31,6 @@
     <extension point="xbmc.addon.metadata">
         <summary>Browse www.moive25.so/</summary>
         <description>Watch content from www.movie25.so</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.watchonlineseries" version="0.9" name="Watch Online Series" provider-name="The_Silencer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.urlresolver"  version="1.0.0"/>
-        <import addon="script.module.addon.common" version="2.0.0"/>
-	<import addon="script.module.metahandler"  version="1.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Browse www.watchonlineseries.eu/</summary>
-        <description>Watch all the TV series from www.watchonlineseries.eu</description>
         <platform>all</platform>
     </extension>
 </addon>
