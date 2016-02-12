@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alluc" version="3.5" name="alluc" provider-name="The_Silencer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.urlresolver"  version="1.0.0"/>
-        <import addon="script.module.addon.common" version="2.0.0"/>
-	<import addon="script.module.metahandler"  version="1.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Official ALLUC XBMC add-on</summary>
-        <description>Play a wide selection of movies and TV shows from alluc.to</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
 <addon id="plugin.video.losmovies" version="2.3" name="Los Movies" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -49,7 +32,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.moviestwentyfive" version="0.16" name="Movie25" provider-name="The_Silencer">
+<addon id="plugin.video.moviestwentyfive" version="0.17" name="Movie25" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>

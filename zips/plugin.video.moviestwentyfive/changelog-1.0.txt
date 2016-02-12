@@ -14,3 +14,4 @@ v0.13 - Fixed redirect check
 v0.14 - Fixed code error
 v0.15 - Added hidden keyboard input
 v0.16 - Added decode rutine to decode TV show url
+v0.17 - Fixed more TV code and added watchseries login to track your shows
