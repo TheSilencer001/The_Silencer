@@ -18,7 +18,25 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.moviestwentyfive" version="0.18" name="Movie25" provider-name="The_Silencer">
+<addon id="plugin.video.mastermov" version="0.1" name="MasterMOV" provider-name="The_Silencer">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.addon.common" version="2.0.0"/>
+	<import addon="script.module.metahandler"  version="1.0.0"/>
+   	<import addon="script.common.plugin.cache" version="2.5.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse mastermov.com</summary>
+        <description>Play a wide selection of movies, tv-shows and HD content from www.mastermov.com</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.moviestwentyfive" version="0.19" name="Movie25" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>
