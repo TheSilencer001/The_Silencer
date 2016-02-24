@@ -17,3 +17,4 @@ v0.16 - Added decode rutine to decode TV show url
 v0.17 - Fixed more TV code and added watchseries login to track your shows
 v0.18 - Fixed commmon cache to make favorites work again
 v0.19 - Fixed code for site change
+v0.20 - Fixed code for site change
