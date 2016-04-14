@@ -18,7 +18,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.moviestwentyfive" version="0.20" name="Movie25" provider-name="The_Silencer">
+<addon id="plugin.video.moviestwentyfive" version="0.21" name="Movie25" provider-name="The_Silencer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>
