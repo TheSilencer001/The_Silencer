@@ -20,3 +20,4 @@ v0.19 - Fixed code for site change
 v0.20 - Fixed code for site change
 v0.21 - Fixed code for site change
 v0.22 - Fixed code for site change
+v0.23 - Removed TV URL check
