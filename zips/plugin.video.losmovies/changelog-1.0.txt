@@ -33,3 +33,4 @@ v2.2  - Fixed coder error for KODI
 v2.3  - Fixed site change with urls
 v2.4  - Fixed common cache for favorites
 v2.5  - Cleaned up player code
+v2.6  - Fixed VK links
