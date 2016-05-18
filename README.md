@@ -1,6 +1,6 @@
 The_Silencer
 ============
 
-The_Silencer XBMC Add-ons
+The_Silencer Kodi Add-ons
 
-Official support from www.xbmchub.com
+Official support from www.tvaddons.ag
